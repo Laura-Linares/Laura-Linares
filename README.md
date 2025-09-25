@@ -53,7 +53,7 @@
 ---
 
 ✨ 宝剑锋从磨砺出，梅花香自苦寒来 ✨
-"A sharp sword is forged through grinding, and the plum blossom’s fragrance comes from bitter cold."
+✨ "A sharp sword is forged through grinding, and the plum blossom’s fragrance comes from bitter cold." ✨
 
 
 <!--
