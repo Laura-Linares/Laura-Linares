@@ -14,7 +14,8 @@
 
 ## 🌐 Languages | Idiomas
 - 🇪🇸 **Spanish**: Native / Nativo  
-- 🇬🇧 **English**: Cambridge B2 (in progress towards C1)  
+- 🇬🇧 **English**: Cambridge B2 (in progress towards C1)
+
   <img src="https://img.shields.io/badge/English-B2%20→%20C1-blue?style=for-the-badge&logo=google-translate&logoColor=white" />
 
 ---
